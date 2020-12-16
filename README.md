@@ -1,8 +1,6 @@
 ## ⚡ Projeto de Analise de Credito - Programação de sistemas II ⚡
 
-### Screenshots 💥
 
-![image]()
 
 ### Requisitos 📄
 Nesta atividade Mapa você deverá realizar um sistema de análise de crédito.
@@ -26,4 +24,7 @@ A interface deve conter os campos para informar os dados necessários para resol
 os campos para exibir os resultados.
 Deve existir um botão para realizar o cálculo.
 
+### Screenshots 💥
 
+![image](https://raw.githubusercontent.com/rafaelm229/Projeto_Analise_de_Credito/main/assets/img01.png)
+![image](https://raw.githubusercontent.com/rafaelm229/Projeto_Analise_de_Credito/main/assets/img02.png)
